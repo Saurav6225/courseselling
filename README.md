@@ -1,6 +1,6 @@
 @@ -1,13 +1,11 @@
-# IT-SCHOOL - A e-learning platform	
-## This website featuring a lot of paid courses	
+-# IT-SCHOOL - A e-learning platform	
+-## This website featuring a lot of paid courses	
 ### Website made by using:	### Website made by using:
     * Html	    * Html
     * Css	    * Css
